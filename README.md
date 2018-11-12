@@ -1,6 +1,6 @@
 # classify_home
 
-A new Flutter project.
+Pre-alpha stage rendition of the home page.
 
 ## Getting Started
 
